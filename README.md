@@ -331,6 +331,6 @@ I am continuously developing my skills in Data Analytics, Business Intelligence,
 
 Feel free to explore this project, share your feedback, or connect with me.
 
-**LinkedIn:** www.linkedin.com/in/prema-chowdhury-aab8483a6
+**LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/prema-chowdhury-aab8483a6)
 
-**GitHub:** [Add your GitHub Profile URL]
+**GitHub:** [My GitHub Profile](https://github.com/pcofficial29)
