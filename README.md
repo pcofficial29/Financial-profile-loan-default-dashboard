@@ -296,30 +296,6 @@ CALCULATE(
 
 ![Applicant Demographics](https://github.com/pcofficial29/Financial-profile-loan-default-dashboard/blob/main/Applicant%20Demographics%20%26%20Financial%20Profile.png)
 
-# How to Reproduce This Project
-
-Follow these steps to explore and reproduce the project:
-
-- Clone or download this GitHub repository.
-
-- Download the Excel dataset provided in the repository.
-
-- Import the dataset into SQL Server.
-
-- Perform the required data cleaning and preparation using SQL queries.
-
-- Open Power BI Desktop and connect to the prepared dataset.
-
-- Perform additional transformations using Power Query Editor.
-
-- Create the data model and required DAX measures.
-
-- Develop the two-page dashboard using Power BI Desktop.
-
-- Publish the report to Power BI Service.
-
-- Configure the required Dataflow and data preparation process in Power BI Service.
-
 
 # Requirements:
 
