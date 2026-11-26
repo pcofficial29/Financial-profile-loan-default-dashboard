@@ -1,5 +1,5 @@
 # Financial Profile & Loan Default Analysis Dashboard
-An end-to-end data analytics project using Excel, SQL Server, Power Query, Power BI Desktop, and Power BI Service to analyse loan distribution, applicant demographics, financial profiles, and loan default patterns.
+An end-to-end data analytics project using Excel, SQL Server, Power BI to analyse loan distribution, applicant demographics, financial profiles, and loan default patterns.
 
 Author: Prema Chowdhury | Data Analyst
 
