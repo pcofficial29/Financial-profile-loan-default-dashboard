@@ -284,7 +284,7 @@ CALCULATE(
 
 ## Page 1: Loan Default & Overview
 
-
+https://github.com/pcofficial29/Financial-profile-loan-default-dashboard/blob/main/Loan%20Default%20%26%20Overview.png 
 
 ## Page 2: Applicant Demographics & Financial Profile
 
