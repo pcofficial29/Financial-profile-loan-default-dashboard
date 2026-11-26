@@ -246,6 +246,9 @@ The following are examples of DAX measures relevant to the analysis:
 ## Average Income By Employment Type
 ```Average Income By Employment Type = CALCULATE(AVERAGE(Loan_default[Income]), ALLEXCEPT(Loan_default, Loan_default[EmploymentType]))```
 
+## Average Loan By Age Group 
+```Average Loan By Age Group = AVERAGEX(VALUES(Loan_default[Age]), AVERAGE(Loan_default[LoanAmount]))```
+
 ## Default Rate by Employment type
 ```Default Rate by Employment type = 
 VAR totalrecords = COUNTROWS(ALL('Loan_default'))
@@ -275,6 +278,9 @@ CALCULATE(
 
 ## Total Loan (Credit Bins)
 ```Total Loan (Credit Bins) = CALCULATE(SUM(Loan_default[LoanAmount]), Loan_default[Age Group] = "Adults", ALLEXCEPT(Loan_default, Loan_default[Age], Loan_default[Age Group], Loan_default[CreditScore], Loan_default[Credit Score Bins]))```
+
+## Median By Credit Score Bins
+```Median By Credit Score Bins = MEDIANX(Loan_default, Loan_default[LoanAmount])```
 
 ## Total Loans (Middle Age Adults)
 ```Total Loans (Middle Age Adults) = SUMX(FILTER(Loan_default, Loan_default[Age Group] = "Middle Aged Adults"), Loan_default[LoanAmount])```
